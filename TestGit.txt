@@ -9,4 +9,8 @@ this is third edit.
 
 
 
+<<<<<<< HEAD
 This is my 4th edit to test Fetch command
+=======
+OMAGAD WHAT IS GOING ON!
+>>>>>>> db8a01ab54f01f1154590bd47d8b442b92bcc135
